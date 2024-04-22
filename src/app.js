@@ -9,3 +9,8 @@ window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
 };
+
+let pronoun=[I, Them]
+let adjetives [big, small]
+let noun [truck, trunk]
+let extesion [.net, .us]
