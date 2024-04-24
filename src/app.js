@@ -6,8 +6,8 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
-  let pronoun = ["his", "her", "My", "our"];
+
+  let pronoun = ["his", "her"];
   let adj = ["big", "small"];
   let noun = ["wolf", "sheep"];
   let domainNames = [".com", ".org"];
